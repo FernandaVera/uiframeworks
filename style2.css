@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(132, 173, 145);
+    /* font-weight: bold; */
+    margin: 5em 10em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* .accordion{
+    max-width: 40%; */
+/* } */
+.card-body{
+    background-color: rgba(139, 163, 148, 0.418);
+    color: rgb(65, 133, 94);
+}
+
+.card-header{
+    background-color: rgb(80, 90, 83);
+}
+.btn{
+    color: rgb(95, 180, 132);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    /* font-size: 0.650em; */
+}
+.btn.btn-primary{
+    color: white;
+    background-color: rgb(159, 204, 181);
+    border-color: seashell;
+}
+.btn.btn-success{
+    color: rgb(25, 53, 36);
+    /* font-size: 0.25em; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(159, 204, 181);
+    border-color: seashell;
+}
+.form-control{
+    max-width: 200px;
+}
+.btn:hover{
+    color:white;
+}
+.btn.btn-primary:checked{
+    background-color: black;
+}
+
+.form-group{
+    color: rgb(80, 90, 83);
+    font-style: italic;
+}
+.form-check-label{
+    font-size: 0.80em;
+}
